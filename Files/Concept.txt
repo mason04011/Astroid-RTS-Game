@@ -1,0 +1,21 @@
+Astroid RTS
+
+-------------------------------------Buildings---------------------------------------------------------------
+
+Power Gen: Combustion Gen - Early game ;5 workers ;0.5 power pp/pm 
+	   Solar Gen - early/mid game ;5 workers ;1.2 power pp/pm
+
+R&D: Manual Labor site - early ; 5 workers; 0.5 rock pp/pm
+     Mine - Early/mid Game ; 5 workers ; produces 0.5(maybe 1) space rock pp/pm
+     Refinery - early/mid ; 5 workers ; uses 1? space rock pp/pm 3 & power pm ; produces 1 polymer 0.5 metal
+     Landing Pad - mid ; 2 workers; uses 2 power pm; allows ships to land bring more people/mine smaller surrounding astroids for space rock
+     Space Port - 
+     Bunks -  
+
+---------------------------------------------------------------------------------------------------------------
+Manual Labor site Mines surface rocks in the nearby area. (surface recources are limited)
+Mine allows the workers to dig into the astroid and continuously gain recources.
+Refinery refines space rocks into better recources that can be used to advance.
+Landing pad allows the colony to send one ship out on missions bring recourses and people back.
+Bunks allows the colony to grow and  host more people.
+Space port establishes the astroid in traiding routes. (development ends here for now)
